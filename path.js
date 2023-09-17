@@ -19,7 +19,7 @@ cardPicPaths = `{
 			"8": "../res/birthday/8.png",
 			"9": "../res/birthday/9.png"
 		},
-		"title":"Happy Birthday"
+		"title":"To new beginnings"
 	},
 	"thankyou": {
 		"img":{
